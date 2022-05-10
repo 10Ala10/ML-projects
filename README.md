@@ -6,7 +6,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/baccari-ala-007097225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="baccari-ala-007097225" height="30" width="40" /></a>
-<a href="https://kaggle.com/baccari ala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baccari ala" height="30" width="40" /></a>
+<a href="https://kaggle.com/baccariala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="baccariala" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/10ala10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="10ala10" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Ala_Baccari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Ala_Baccari" height="30" width="40" /></a>
 </p>
